@@ -3,8 +3,7 @@
 **Caso de Estudio N°4** · Especialización en Python for Analytics (DMC Institute) · 2026
 **Autor:** Rodrigo Enrique Huarcaya Galarza
 
-> Proyecto educativo y exploratorio. Los resultados **no constituyen un diagnóstico clínico**
-> ni sustituyen la valoración de profesionales de la salud.
+
 
 ## Descripción del proyecto
 
