@@ -205,9 +205,7 @@ class DataAnalyzer:
 def pagina_home():
     st.title("🧠 Hábitos digitales y bienestar en adolescentes")
     st.caption("Análisis Exploratorio de Datos (EDA) · Caso de Estudio N°4")
-    st.info("Proyecto educativo y exploratorio. Los resultados **no constituyen un "
-            "diagnóstico clínico** ni sustituyen la valoración de profesionales de la salud.")
-
+    
     col1, col2 = st.columns([3, 2])
     with col1:
         st.subheader("🎯 Objetivo del análisis")
